@@ -1,0 +1,13 @@
+<svg id="ic_charge_point" xmlns="http://www.w3.org/2000/svg" width="37.603" height="30.603" viewBox="0 0 37.603 30.603">
+  <g id="ic_point">
+    <g id="그룹_1350" data-name="그룹 1350">
+      <ellipse id="타원_444" data-name="타원 444" cx="13" cy="13.5" rx="13" ry="13.5" transform="translate(1 2)" fill="#a8902a"/>
+      <circle id="타원_443" data-name="타원 443" cx="13.5" cy="13.5" r="13.5" fill="#f0d14d"/>
+    </g>
+    <text id="P" transform="translate(9 20)" fill="#fdfdfd" font-size="14" font-family="Helvetica" letter-spacing="-0.01em"><tspan x="0" y="0">P</tspan></text>
+  </g>
+  <g id="그룹_1383" data-name="그룹 1383" transform="translate(-313 -13)">
+    <circle id="타원_445" data-name="타원 445" cx="7.5" cy="7.5" r="7.5" transform="translate(332 25)" fill="#fdfdfd"/>
+    <path id="Icon_awesome-plus-circle" data-name="Icon awesome-plus-circle" d="M10.864.563a10.3,10.3,0,1,0,10.3,10.3A10.3,10.3,0,0,0,10.864.563Zm5.981,11.465a.5.5,0,0,1-.5.5H12.525v3.822a.5.5,0,0,1-.5.5H9.7a.5.5,0,0,1-.5-.5V12.525H5.381a.5.5,0,0,1-.5-.5V9.7a.5.5,0,0,1,.5-.5H9.2V5.381a.5.5,0,0,1,.5-.5h2.326a.5.5,0,0,1,.5.5V9.2h3.822a.5.5,0,0,1,.5.5Z" transform="translate(329.438 22.438)" fill="#00a388"/>
+  </g>
+</svg>

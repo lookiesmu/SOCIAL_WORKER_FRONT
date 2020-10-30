@@ -1,0 +1,7 @@
+<svg id="ic_point" xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="그룹_1350" data-name="그룹 1350">
+    <ellipse id="타원_444" data-name="타원 444" cx="22" cy="21.5" rx="22" ry="21.5" transform="translate(1 2)" fill="#a8902a"/>
+    <ellipse id="타원_443" data-name="타원 443" cx="22" cy="21.5" rx="22" ry="21.5" fill="#f0d14d"/>
+  </g>
+  <text id="P" transform="translate(15.5 29.333)" fill="#fdfdfd" font-size="23" font-family="Helvetica" letter-spacing="-0.01em"><tspan x="0" y="0">P</tspan></text>
+</svg>
